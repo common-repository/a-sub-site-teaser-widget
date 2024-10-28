@@ -1,0 +1,177 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: A Sub Site Teaser Widget v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-07-14 11:01+0100\n"
+"Last-Translator: Kevin Busch <wp-plugins@kevin-busch.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.6.6\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Textdomain-Support: yes\n"
+"Language: de_DE\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ a-sub-site-teaser-widget
+#: a-sub-site-teaser-widget.php:112
+msgid "Imagesettings"
+msgstr "Bilder"
+
+# @ a-sub-site-teaser-widget
+#: a-sub-site-teaser-widget.php:118
+msgid "Images?"
+msgstr "Bilder?"
+
+# @ a-sub-site-teaser-widget
+#: a-sub-site-teaser-widget.php:119 a-sub-site-teaser-widget.php:131
+#: a-sub-site-teaser-widget.php:180 a-sub-site-teaser-widget.php:210
+#: a-sub-site-teaser-widget.php:225 a-sub-site-teaser-widget.php:238
+#: a-sub-site-teaser-widget.php:250 a-sub-site-teaser-widget.php:271
+#: a-sub-site-teaser-widget.php:312
+msgid "Yes"
+msgstr "Ja"
+
+# @ a-sub-site-teaser-widget
+#: a-sub-site-teaser-widget.php:120 a-sub-site-teaser-widget.php:132
+#: a-sub-site-teaser-widget.php:181 a-sub-site-teaser-widget.php:211
+#: a-sub-site-teaser-widget.php:226 a-sub-site-teaser-widget.php:239
+#: a-sub-site-teaser-widget.php:251 a-sub-site-teaser-widget.php:272
+#: a-sub-site-teaser-widget.php:313
+msgid "No"
+msgstr "Nein"
+
+# @ a-sub-site-teaser-widget
+#: a-sub-site-teaser-widget.php:130
+msgid "Alternate?"
+msgstr "Abwechselnd?"
+
+# @ a-sub-site-teaser-widget
+#: a-sub-site-teaser-widget.php:137
+msgid "Start with?"
+msgstr "Startseite?"
+
+# @ a-sub-site-teaser-widget
+#: a-sub-site-teaser-widget.php:138
+msgid "Odd"
+msgstr "Ungerade"
+
+# @ a-sub-site-teaser-widget
+#: a-sub-site-teaser-widget.php:139
+msgid "Even"
+msgstr "Gerade"
+
+# @ a-sub-site-teaser-widget
+#: a-sub-site-teaser-widget.php:146
+msgid "Custom image CSS:"
+msgstr "Eigenes Bilder CSS"
+
+# @ a-sub-site-teaser-widget
+#: a-sub-site-teaser-widget.php:154
+msgid "Pagesettings"
+msgstr "Seiten"
+
+# @ a-sub-site-teaser-widget
+#: a-sub-site-teaser-widget.php:160
+msgid "Parent page:"
+msgstr "Elternseite:"
+
+# @ a-sub-site-teaser-widget
+#: a-sub-site-teaser-widget.php:162
+msgid "Actual Page"
+msgstr "Aktuelle Seite"
+
+# @ a-sub-site-teaser-widget
+#: a-sub-site-teaser-widget.php:179
+msgid "Limit sites?"
+msgstr "Seiten beschränken?"
+
+# @ a-sub-site-teaser-widget
+#: a-sub-site-teaser-widget.php:187
+msgid "Maximum sites:"
+msgstr "Maximale Seiten:"
+
+# @ a-sub-site-teaser-widget
+#: a-sub-site-teaser-widget.php:195
+msgid "Exclude pages:"
+msgstr "Seiten ausblenden:"
+
+# @ a-sub-site-teaser-widget
+#: a-sub-site-teaser-widget.php:195 a-sub-site-teaser-widget.php:318
+msgid "Coma separated ID list"
+msgstr "Komma getrennte ID-Liste"
+
+# @ a-sub-site-teaser-widget
+#: a-sub-site-teaser-widget.php:203
+msgid "Textsettings"
+msgstr "Texte"
+
+# @ a-sub-site-teaser-widget
+#: a-sub-site-teaser-widget.php:209
+msgid "Limit text?"
+msgstr "Text beschränken?"
+
+# @ a-sub-site-teaser-widget
+#: a-sub-site-teaser-widget.php:216
+msgid "Maximum chars:"
+msgstr "Maximale Zeichen:"
+
+# @ a-sub-site-teaser-widget
+#: a-sub-site-teaser-widget.php:224
+msgid "Excerp only?"
+msgstr "Nur Auszug?"
+
+# @ a-sub-site-teaser-widget
+#: a-sub-site-teaser-widget.php:237
+msgid "Ignore empty?"
+msgstr "Leere ignorieren?"
+
+# @ a-sub-site-teaser-widget
+#: a-sub-site-teaser-widget.php:249
+msgid "More link?"
+msgstr "Mehr-Link?"
+
+# @ a-sub-site-teaser-widget
+#: a-sub-site-teaser-widget.php:256
+msgid "More text:"
+msgstr "Mehr-Text:"
+
+# @ a-sub-site-teaser-widget
+#: a-sub-site-teaser-widget.php:264
+msgid "Sortsettings"
+msgstr "Sortierung"
+
+# @ a-sub-site-teaser-widget
+#: a-sub-site-teaser-widget.php:270
+msgid "Random?"
+msgstr "Zufällig?"
+
+# @ a-sub-site-teaser-widget
+#: a-sub-site-teaser-widget.php:282
+msgid "Sort by:"
+msgstr "Sortieren nach:"
+
+# @ a-sub-site-teaser-widget
+#: a-sub-site-teaser-widget.php:302
+msgid "Sort order:"
+msgstr "Sortier-Reihenfolge"
+
+# @ a-sub-site-teaser-widget
+#: a-sub-site-teaser-widget.php:318
+msgid "Custom Order pages:"
+msgstr "Eigene Seiten-Reihenfolge:"
+
+# @ a-sub-site-teaser-widget
+#: a-sub-site-teaser-widget.php:102
+msgid "Title:"
+msgstr "Titel:"
+
+# @ a-sub-site-teaser-widget
+#: a-sub-site-teaser-widget.php:311
+msgid "Custom order?"
+msgstr "Eigene Reihenfolge?"
